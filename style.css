@@ -1,0 +1,111 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.cart{
+    width: 30px;
+    height: 30px;
+}
+
+.navbar{
+    width: 100%;
+    background-color: rgb(240, 94, 155);
+}
+
+.nav-link{
+    color: black;
+}
+
+.navbar-brand{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.active{
+    margin-left: 530px;
+}
+
+.nav-link:hover{
+    color: black;
+}
+
+.navbar-brand:hover{
+    color: black;
+}
+
+.contenu{
+    background-color: #b85f63;
+    margin: 50px 0;
+    height: 450px;
+}   
+
+.image1{
+    width: 700px;
+    height: 450px;
+}
+
+.contenu h1{
+    color: #fff;
+    margin-left: 800px;
+    margin-top: -350px;
+
+}
+
+.texte{
+    margin-bottom: 150px;
+}
+
+.btn-outline-light{
+    background-color: rgb(240, 94, 155);
+}
+
+.image2{
+    width: 250px;
+    height: 300px;
+}
+
+.poudre{
+    width:350px;
+    height: 350px;
+}
+
+.accessoire{
+    width: 600px;
+    height: 400px;
+}
+
+.soin{
+    width: 500px;
+    height: 350px;
+}
+
+.maquillage, .soins, .Accessoires{
+    width: 100%;
+}
+
+.maquillages{
+    margin-top: 150px;
+}
+
+section h1{
+    text-align: center;
+}
+
+.col-3{
+    margin-left: 70px;
+    padding: 30px;
+}
+
+footer p{
+    border: 1px solid rgb(135, 135, 138);
+    background-color: rgb(135, 135, 138);
+    color: #fff;
+    text-align: center;
+    margin-top: 100px;
+    padding: 5px 10px;
+}
+
+
+
